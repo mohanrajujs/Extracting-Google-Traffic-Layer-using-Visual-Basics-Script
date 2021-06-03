@@ -1,0 +1,12 @@
+[MapsType]
+MapsType=0
+
+[Zoom]
+Zoom=13
+
+[XY]
+MinX=5850
+MinY=3789
+MaxX=5871
+MaxY=3805
+

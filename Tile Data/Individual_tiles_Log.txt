@@ -1,0 +1,88 @@
+Project: C:\downloads\my_new_task.egmd
+Log begin......v=8.409
+Now time is:22-06-2017 14:33:34
+
+[MapsType]
+MapsType=0
+
+Left Longitude  input= 12
+Right Longitude input= 13
+Top Latitude    input= 77
+Bottom Latitude input= 77
+
+MinX = 4369
+MinY = 1263
+MaxX = 4391
+MaxY = 1263
+
+Left Longitude  download=11.9970703125
+Right Longitude download=13.0078125
+Top Latitude    download=77.0098170151007
+Bottom Latitude download=76.9999351152712
+
+All lat/long information of tiles are saved to C:\downloads\my_new_task_list*.txt
+
+Total count of images would be downloaded: 23
+
+Zoom level: 13
+
+path: C:\downloads\
+
+Start downloading...
+-----------------------------------------
+Writing list file, please wait...this may take some time...
+Writing list file OK!
+
+Writing status file, please wait...this may take some time...
+Write status file OK!
+
+Initializing array, please wait...this may take some time...
+Initializing array OK!
+ 
+T0 gm_4369_1263_13.png: OK
+T2 gm_4371_1263_13.png: OK
+T1 gm_4370_1263_13.png: OK
+T4 gm_4373_1263_13.png: OK
+T5 gm_4374_1263_13.png: OK
+T3 gm_4372_1263_13.png: OK
+T7 gm_4376_1263_13.png: OK
+T6 gm_4375_1263_13.png: OK
+T8 gm_4377_1263_13.png: OK
+T11 gm_4380_1263_13.png: OK
+T10 gm_4379_1263_13.png: OK
+T12 gm_4381_1263_13.png: OK
+T9 gm_4378_1263_13.png: OK
+
+Checking missing tiles and re-download them, please wait...
+
+T14 gm_4383_1263_13.png: OK
+T15 gm_4384_1263_13.png: OK
+T13 gm_4382_1263_13.png: OK
+T16 gm_4385_1263_13.png: OK
+T17 gm_4386_1263_13.png: OK
+T20 gm_4389_1263_13.png: OK
+T21 gm_4390_1263_13.png: OK
+T18 gm_4387_1263_13.png: OK
+T19 gm_4388_1263_13.png: OK
+T22 gm_4391_1263_13.png: OK
+
+Checking missing tiles and re-download them, please wait...
+
+
+Now time is:22-06-2017 14:33:39
+Running thread count is:0
+
+
+All tiles are downloaded!
+
+
+Now time:22-06-2017 14:33:42
+Writing status file now...please wait...
+Write status file OK.
+
+--------------------------------
+Task finished!
+
+Now time:22-06-2017 14:33:42
+
+Log file has been saved as C:\downloads\my_new_task_log.txt
