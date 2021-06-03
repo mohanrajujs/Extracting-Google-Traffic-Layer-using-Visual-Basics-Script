@@ -3,9 +3,9 @@
 This whole exercise helps one to scrape tarffic layer using _VB script_, a script is designed to extract tiles individually and later whole tiles are stitched together using tile stitching plugin developed by google.
 ## Step by step method shows how to 1.extract single tile layer, 2.automate extraction of tile layer and 3.finally stitch together to form a single image.
 ### 1. Defining Bounding Box (Choosing the area)
+* #### 1.1 How to get Boundary Information?
 ![Picture2](https://user-images.githubusercontent.com/5634888/120700143-e937fe00-c4ce-11eb-91d9-48a4d1ada053.png)
 ####
-* ##### 1.1 How to get Boundary Information?
 Go to Google Maps or Google earth. Go to respective area place marker and get the Lat-Long information. Similarly repeat the process for all the remaining edges. (Note: - Make sure Zoom level should be same while recording Lat-Long).
 
 ### 2. Tweaking Traffic URL
