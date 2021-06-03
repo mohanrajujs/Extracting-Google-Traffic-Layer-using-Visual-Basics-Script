@@ -5,7 +5,7 @@ This whole exercise helps one to scrape tarffic layer using _VB script_, a scrip
 
 ## Step by step method shows how to 1.extract single tile layer, 2.automate extraction of tile layer and 3.finally stitch together to form a single image.
 ### 1. Defining Bounding Box (Choosing the area)
-
+ 
 
 
 ### 2. Tweaking Traffic URL
