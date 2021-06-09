@@ -105,8 +105,28 @@ End Sub
  - Your output will eventually appear in ```output.png```
 
 ### 5. Converting Raster to CSV using OpenCV Python Library
+```
+from PIL import Image
+im = Image.open("TrafficData.jpg")
+fil = open('file', 'w')
+pixel = im.load()
+row, column = im.size
+for y in range(column):
+    for x in range(row):
+        pixel = pix[x, y]
+        fil.write(str(pixel) + '\n')
+fil.close()
+```
 
-### 6. Calculating Traffic length using QGIS Distance Function
+### 6. Calculating Traffic length using QGIS Distance Function (Optional)
+ - By analysing pixel's characteristics, one can calculate the length of the taffic just by calculating the diagonal area of the pixel. Left image depicts a snapshot of distance function in Qgis, right image is quantified output of traffic obtained from google traffic layer.
+![Picture3](https://user-images.githubusercontent.com/5634888/121384743-2afcf480-c966-11eb-8b28-0b3124d5b67e.png)
+![circle](https://user-images.githubusercontent.com/5634888/121385139-7dd6ac00-c966-11eb-82fe-2aa62cf879bb.png)
 
-### 7. Sample Output
+
+### 7. An animated video depicting a flow of traffic for the city of Bangalore on 5th June, 2017
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/5634888/121387890-a65fa580-c968-11eb-9970-1770536a3131.gif)
+
+
+
  
