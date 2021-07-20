@@ -119,7 +119,8 @@ fil.close()
 ```
 
 ### 6. Calculating Traffic length using QGIS Distance Function (Optional)
- - By analysing pixel's characteristics, one can calculate the length of the taffic just by calculating the diagonal area of the pixel. Left image depicts a snapshot of distance function in Qgis, right image is quantified output of traffic obtained from google traffic layer.
+ - By analysing pixel's characteristics, one can calculate the length of the taffic just by calculating the diagonal area of the pixel. Left image depicts a snapshot of distance function in Qgis, right image is quantified output of traffic image tiles obtained from google traffic layer.
+ 
 ![Picture3](https://user-images.githubusercontent.com/5634888/121384743-2afcf480-c966-11eb-8b28-0b3124d5b67e.png)
 ![circle](https://user-images.githubusercontent.com/5634888/121385139-7dd6ac00-c966-11eb-82fe-2aa62cf879bb.png)
 
